@@ -4,7 +4,7 @@
     "keywords": ["vmvltrshso"],
     "env": {
          "PROTOCOL": {
-            "description": "path路径说明:（斜杠/）+（自定义UUID）+（减号-）+（对应协议开头两小写字母：vl或vm或tr或sh或so）",
+            "description": "path路径说明:/36aff947-9a74-423f-88c3-fe8a7880d5dc（斜杠/）+（自定义UUID）+（减号-）+（对应协议开头两小写字母：vl或vm或tr或sh或so）",
             "value": "相关配置说明：http://ygkkk.blogspot.com/2022/05/herokuxrayvless-wsvmess-wstrojan-ws.html",
              "required": true
         },
@@ -14,7 +14,7 @@
              "required": true
         },
         "UUID": {
-            "description": "请输入自定义UUID（vless-ws与vmess-ws为用户ID，trojan-ws与shadowsocks-ws为密码，socks5-ws用户名密码为空）",
+            "description": "36aff947-9a74-423f-88c3-fe8a7880d5dc（vless-ws与vmess-ws为用户ID，trojan-ws与shadowsocks-ws为密码，socks5-ws用户名密码为空）",
             "value": "",
             "required": true
         }  
